@@ -69,3 +69,5 @@ cv2.destroyAllWindows()
    <img width="642" height="512" alt="image" src="https://github.com/user-attachments/assets/c6afa3f2-69b1-4204-b2dc-fc595d4ef2d9" />
    <img width="642" height="512" alt="image" src="https://github.com/user-attachments/assets/29ba9ede-d007-423d-b821-4c50368c4ee5" />
 
+## 7. 기타
+   스트리밍 프로토콜 주소 출처 : [공공데이터 포털](https://www.data.go.kr/data/15063717/fileData.do)
